@@ -8,7 +8,7 @@
   "main": "star-dialog.html",
   "license": "MIT",
   "ignore": [
-    "**/*.me",
+    "**/*.md",
     "**/*.txt"
   ],
   "dependencies": {
