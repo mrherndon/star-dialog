@@ -13,6 +13,6 @@
   ],
   "dependencies": {
     "polymer": "Polymer/platform#^0.4.0",
-    "akyral-dialog": "akyral-dialog#^1.1.0"
+    "akyral-dialog": "~1.1.0"
   }
 }
