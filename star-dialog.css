@@ -1,0 +1,3 @@
+:host-context(.admin) /deep/ #modal {
+    background: url('/img/floral-pattern-wallpaper-black-1600x1200.jpg') no-repeat center top fixed;
+}
